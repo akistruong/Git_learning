@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Backend_GitLerning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a28b5bf7391ad7ad65bf516026fc67fa9fc7b14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45c61baf236a818dacf4440be9ac4f1c8ef2eee9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Backend_GitLerning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Backend_GitLerning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
